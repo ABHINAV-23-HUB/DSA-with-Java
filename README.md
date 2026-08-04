@@ -6,6 +6,7 @@ Regular Data Structure progress
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
@@ -15,4 +16,8 @@ Regular Data Structure progress
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

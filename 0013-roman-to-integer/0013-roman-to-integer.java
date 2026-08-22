@@ -1,14 +1,14 @@
 class Solution {
     public int romanToInt(String s) {
        int result = 0;
-       int length = s.length();
-       for (int i=0 ; i < length ; i++){
+       int len=s.length();
+       for (int i=0 ; i < len; i++){
         int currval= getValue(s.charAt(i));
-        if (i+1 < length && currval < getValue(s.charAt(i+1))){
+        if ( (i+1 <len) && (currval < getValue(s.charAt(i+1))) ){
             result-=currval;
         }
         else{
-            result +=currval;
+            result+=currval;
         }
        } 
        return result;

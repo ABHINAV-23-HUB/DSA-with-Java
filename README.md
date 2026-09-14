@@ -21,6 +21,7 @@ Regular Data Structure progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0066-plus-one](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0136-single-number/) | Easy |
@@ -32,4 +33,8 @@ Regular Data Structure progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->

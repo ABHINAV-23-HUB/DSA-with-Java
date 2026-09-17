@@ -25,6 +25,7 @@ Regular Data Structure progress
 | [0066-plus-one](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0136-single-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,12 @@ Regular Data Structure progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ Regular Data Structure progress
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0136-single-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,8 @@ Regular Data Structure progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->

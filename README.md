@@ -25,6 +25,7 @@ Regular Data Structure progress
 | [0066-plus-one](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0136-single-number/) | Easy |
+| [0867-transpose-matrix](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -55,5 +56,10 @@ Regular Data Structure progress
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/1572-matrix-diagonal-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->

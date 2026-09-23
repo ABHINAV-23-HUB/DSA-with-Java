@@ -62,4 +62,12 @@ Regular Data Structure progress
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0867-transpose-matrix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/ABHINAV-23-HUB/DSA-with-Java/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
